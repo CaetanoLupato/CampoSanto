@@ -1,2 +1,2 @@
 # CampoSanto
-Protótipo de um site
+Protótipo de um site profissional para venda de jogos.
